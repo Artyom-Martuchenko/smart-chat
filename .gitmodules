@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/alipheesa/easy-chat-core.git
+[submodule "client"]
+	path = client
+	url = https://github.com/alipheesa/easy-chat-client.git
+[submodule "devops"]
+	path = devops
+	url = https://github.com/alipheesa/easy-chat-devops.git

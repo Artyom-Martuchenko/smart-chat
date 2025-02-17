@@ -1,0 +1,10 @@
+
+node_modules
+dist
+build
+
+
+# Remove in production!
+
+!client/env_files/.*
+!.gitignore

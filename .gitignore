@@ -1,0 +1,8 @@
+
+.*
+
+# Remove in production!
+!env_files/**/.*
+
+!.gitignore
+!.gitmodules
