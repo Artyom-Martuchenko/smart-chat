@@ -1,4 +1,4 @@
-# Easy Chat
+# Smart Chat
 
 A simple fullstack chat application with both debug and production environments set up via *docker-compose*.
 
@@ -78,7 +78,7 @@ When using Google as OAuth provider, don't forget to select ./auth/userinfo.prof
 
 ## Overview
 
-This is just an another chat app heavily inspired by discord. What is possible in *easy-chat*? 
+This is just an another chat app heavily inspired by discord. What is possible in *smart-chat*? 
 * Registration and JWT token authorization (Google/Github OAuth2 supported if you enable them and provide ID and a Secret in .env for core).
 * Creation and management of groups, topic and rooms.
 * Real-time message exchange, with user typing and online status change events served instantaneously via websockets.
