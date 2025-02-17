@@ -2,4 +2,4 @@
 
 DevOps configuration files for easy-chat project.
 
-For further details refer to [easy-chat project](https://github.com/alipheesa/easy-chat).
+For further details refer to [smart-chat project](https://github.com/Artyom-Martuchenko/smart-chat).
